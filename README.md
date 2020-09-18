@@ -1,7 +1,9 @@
 # Awesome Fabric
-A curated list of Fabric libraries and tools - really WIP
+> A curated list of awesome Fabric libraries and tools - really WIP
 
-## Table of contents
+Fabric is a mod loader for the voxel game [Minecraft](https://en.wikipedia.org/wiki/Minecraft). 
+
+## Contents
 
 - [Libraries](#libraries)
 - [Tools](#tools)
@@ -10,4 +12,4 @@ A curated list of Fabric libraries and tools - really WIP
 
 ## Tools
 
-- [mod_jar_inspector](https://github.com/comp500/mod_jar_inspector) — Allows you to inspect mods in a directory like listing all jar-in-jars or all mixins.
+- [mod_jar_inspector](https://github.com/comp500/mod_jar_inspector) - Allows you to inspect mods in a directory like listing all jar-in-jars or all mixins.

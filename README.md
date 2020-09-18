@@ -11,7 +11,7 @@ Fabric is a mod loader for the voxel game [Minecraft](https://en.wikipedia.org/w
 
 ## Libraries
 
-- [Fabric API](https://github.com/FabricMC/fabric) - Essential hooks and patches for modding with Fabric. ([Wiki](https://fabricmc.net/wiki) `Apache-2.0`
+- [Fabric API](https://github.com/FabricMC/fabric) - Essential hooks and patches for modding with Fabric. ([Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 
 ## Tools
 

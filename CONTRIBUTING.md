@@ -2,6 +2,7 @@
 ## Eligibility
 A project is eligible to be added to this list if it is:
 - **awesome** :sunglasses:
+> Research if the stuff you're including is actually awesome. Only put stuff on the list that you or another contributor can personally recommend. You should rather leave stuff out than include too much.
 - well documented (wiki, javadocs or command line help)
 - maintained (no dead projects)
 

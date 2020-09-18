@@ -9,3 +9,5 @@ A curated list of Fabric libraries and tools - really WIP
 ## Libraries
 
 ## Tools
+
+* [mod_jar_inspector](https://github.com/comp500/mod_jar_inspector) — Allows you to inspect mods in a directory like listing all jar-in-jars or all mixins.

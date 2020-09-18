@@ -11,9 +11,9 @@ A project is eligible to be added to this list if it is:
 
 1. Make sure the entry is [eligible](#eligibility) for this list.
 2. Click on the pen icon at the top of the README file.
-3. Add the entry at the alphabetically right position. It should follow the convention:
+3. Add the entry at the alphabetically right position. It should use the following convention with a [SPDX License Identifier](https://spdx.org/licenses):
 ```markdown
-[Project Name](Source link) - Description. ([Wiki](Wiki Link)) `License`
+[Project Name](Source link) - Description. ([Wiki](Wiki Link)) `SPDX License Identifier`
 ```
 5. At the bottom of the page state what you added.
 6. Propose the changes and open a pull request.

@@ -22,6 +22,7 @@ Fabric is a mod loader for the voxel game [Minecraft](https://en.wikipedia.org/w
 - [AutoConfig](https://github.com/shedaniel/AutoConfig) - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/auto-config)) `Apache-2.0`
 - [Cloth Config](https://github.com/shedaniel/cloth-config) - A client side API for creating configuration screens. ([Wiki](https://shedaniel.gitbook.io/cloth-config)) `Unlicense`
 - [Fabric API](https://github.com/FabricMC/fabric) - Essential hooks and patches for modding with Fabric. ([Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+- [GeckoLib](https://github.com/bernie-g/geckolib) - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started)) `LGPL-3.0-only`
 
 ## Tools
 

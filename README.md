@@ -1,5 +1,4 @@
-# Awesome Fabric
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Fabric [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 > A curated list of awesome Fabric libraries and tools - really WIP
 
 Fabric is a mod loader for the voxel game [Minecraft](https://en.wikipedia.org/wiki/Minecraft). 

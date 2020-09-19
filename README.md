@@ -4,7 +4,9 @@
 Fabric is a mod loader for the voxel game [Minecraft](https://en.wikipedia.org/wiki/Minecraft). 
 
 *Development Mods* are mods that help during the development of other mods.
+
 *Libraries* should be pretty self-explanatory.
+
 *Tools* are **external** programs that generally help with developing mods or modpacks for Fabric.
 
 ## Contents

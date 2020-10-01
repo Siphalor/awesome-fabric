@@ -17,6 +17,8 @@ Fabric is a mod loader for the voxel game [Minecraft](https://en.wikipedia.org/w
 
 ## Development Mods
 
+- [MixinTrace](https://github.com/comp500/mixintrace) - Adds a list of related mixins to crash reports. `MIT`
+
 ## Libraries
 
 - [Amecs' API](https://github.com/Siphalor/amecs-api) - Allows to define modifier keys (control, shift, alt) for keybindings. `Apache-2.0`

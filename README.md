@@ -27,6 +27,7 @@ Fabric is a mod loader for the voxel game [Minecraft](https://en.wikipedia.org/w
 - [Fabric API](https://github.com/FabricMC/fabric) - Essential hooks and patches for modding with Fabric. ([Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 - [GeckoLib](https://github.com/bernie-g/geckolib) - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started)) `LGPL-3.0-only`
 - [Nbt Crafting](https://github.com/Siphalor/nbt-crafting) - JSON-driven nbt data in recipes and remainders as well as brewing recipes and a lot more. ([Wiki](https://mcwiki.siphalor.de/nbt-crafting/v2)) `Apache-2.0`
+- [No More Useless Keys - NMUK](https://github.com/Siphalor/nmuk) - Allows you to specify an arbitrary amount of alternative key combinations for key bindings. `Apache-2.0`
 - [Push To Craft](https://github.com/Siphalor/push-to-craft) - Allows to provide alternatives for recipe ingredients in a general fashion. `MIT`
 - [Terraformers' Shapes](https://github.com/TerraformersMC/Shapes) - A context independent library for generating voxel shapes using mathematical equations. ([Wiki](https://github.com/TerraformersMC/Shapes/wiki/Using-Shapes)) `MIT`
 

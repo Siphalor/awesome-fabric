@@ -38,3 +38,4 @@ Fabric is a mod loader for the voxel game [Minecraft](https://en.wikipedia.org/w
 - [GIUP](https://github.com/Siphalor/giup) - Allows to maintain mods that are spread across branches for different MC versions. `Apache-2.0`
 - [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
 - [mod_jar_inspector](https://github.com/comp500/mod_jar_inspector) - Allows you to inspect mods in a directory like listing all jar-in-jars or all mixins. `GPL-3.0-only`
+- [yarn-cli](https://github.com/ByMartrixx/yarn-cli) - CLI to look up yarn/intermediary mappings. `MIT`

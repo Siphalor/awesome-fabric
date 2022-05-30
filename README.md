@@ -39,6 +39,12 @@
 
 <h2 align="center">Library</h2>
 
+### Agnostic (Common & Multi-Feature)
+
+- [Fabric API](https://github.com/FabricMC/fabric) - Essential hooks and patches for modding with Fabric. ([Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+- [Mesh](https://github.com/GlassPane/Mesh) - A modding library with various utilities, such as auto-registration of items and blocks, or crafting recipe generation. ([Wiki](https://github.com/GlassPane/Mesh/blob/1.18/README.md)) `LGPL-3`
+- [oωo (owo-lib)](https://github.com/glisco03/owo-lib) - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md)) `MIT`
+
 ### Audio
 
 - [Sound Categories](https://github.com/stashingco/sound-categories) - Allows mods to add more sound categories, and modifies the Minecraft sound settings menu to fit as many categories as required. ([Wiki](https://github.com/stashingco/sound-categories/blob/main/README.md)) `APACHE`
@@ -46,12 +52,6 @@
 ### Chat
 
 - [AdvancedChatCore](https://github.com/DarkKronicle/AdvancedChatCore) - The base mod of all AdvancedChat modules and features, presenting an API to achieve many different functionalities related to the Minecraft chat. ([Wiki](https://darkkronicle.github.io/AdvancedChatCore/)) `MPL-2.0`
-
-### Common & Multi-Feature
-
-- [Fabric API](https://github.com/FabricMC/fabric) - Essential hooks and patches for modding with Fabric. ([Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
-- [Mesh](https://github.com/GlassPane/Mesh) - A modding library with various utilities, such as auto-registration of items and blocks, or crafting recipe generation. ([Wiki](https://github.com/GlassPane/Mesh/blob/1.18/README.md)) `LGPL-3`
-- [oωo (owo-lib)](https://github.com/glisco03/owo-lib) - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md)) `MIT`
 
 ### Configs
 

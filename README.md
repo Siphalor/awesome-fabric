@@ -42,7 +42,7 @@
 ### Agnostic (Common & Multi-Feature)
 
 - [Fabric API](https://github.com/FabricMC/fabric) - Essential hooks and patches for modding with Fabric. ([Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
-- [Mesh](https://github.com/GlassPane/Mesh) - A modding library with various utilities, such as auto-registration of items and blocks, or crafting recipe generation. ([Wiki](https://github.com/GlassPane/Mesh/blob/1.18/README.md)) `LGPL-3`
+- [Mesh](https://github.com/GlassPane/Mesh) - A modding library with various utilities, such as auto-registration of items and blocks, or crafting recipe generation. ([Wiki](https://github.com/GlassPane/Mesh/blob/1.18/README.md)) `LGPL-3.0-only`
 - [oωo (owo-lib)](https://github.com/glisco03/owo-lib) - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md)) `MIT`
 
 ### Audio
@@ -67,7 +67,7 @@
 #### Disguising & Impersonation
 
 - [DisguiseLib](https://github.com/NucleoidMC/DisguiseLib) - A (server-side) library for disguising entities in Minecraft. `MIT`
-- [Impersonate](https://github.com/Ladysnake/Impersonate) - Allows players to take on the name and appearance of other players. ([Wiki](https://github.com/Ladysnake/Impersonate/blob/1.17/README.md)) `LGPL-3`
+- [Impersonate](https://github.com/Ladysnake/Impersonate) - Allows players to take on the name and appearance of other players. ([Wiki](https://github.com/Ladysnake/Impersonate/blob/1.17/README.md)) `LGPL-3.0-only`
 
 #### Villagers & Trading
 
@@ -75,7 +75,7 @@
 
 #### Piglins & Bartering
 
-- [Piglib](https://github.com/Shnupbups/Piglib) - Adds item tags for various Piglin related things that Mojang were too silly to add themselves! ([Wiki](https://github.com/Shnupbups/Piglib/blob/1.18.2/README.md)) `LGPL-3`
+- [Piglib](https://github.com/Shnupbups/Piglib) - Adds item tags for various Piglin related things that Mojang were too silly to add themselves! ([Wiki](https://github.com/Shnupbups/Piglib/blob/1.18.2/README.md)) `LGPL-3.0-only`
 
 #### Attributes
 
@@ -88,7 +88,7 @@
 ### GUIs & Menus
 
 - [SpruceUI](https://github.com/LambdAurora/SpruceUI) - Utilities for creating GUIs. `MIT`
-- [Main Menu Credits](https://github.com/isXander/main-menu-credits) - Adds a way of adding information to the user's title screen. ([Wiki](https://github.com/isXander/main-menu-credits/wiki/Usage)) `LGPL-3`
+- [Main Menu Credits](https://github.com/isXander/main-menu-credits) - Adds a way of adding information to the user's title screen. ([Wiki](https://github.com/isXander/main-menu-credits/wiki/Usage)) `LGPL-3.0-only`
 
 ### Input Methods & Keybinds
 
@@ -109,7 +109,7 @@
 
 ### Kotlin
 
-- [Fabrik](https://modrinth.com/mod/fabrik) - An API for using FabricMC with Kotlin. It is the bridge between Minecraft and common Kotlin language features, libraries, [DSLs](https://en.wikipedia.org/wiki/Domain-specific_language) and more. ([Wiki](https://jakobkmar.github.io/fabrikmc/)) `GPL-3.0`
+- [Fabrik](https://modrinth.com/mod/fabrik) - An API for using FabricMC with Kotlin. It is the bridge between Minecraft and common Kotlin language features, libraries, [DSLs](https://en.wikipedia.org/wiki/Domain-specific_language) and more. ([Wiki](https://jakobkmar.github.io/fabrikmc/)) `GPL-3.0-only`
 
 ### Multipart
 
@@ -131,8 +131,8 @@
 - [LibZoomer](https://github.com/EnnuiL/LibZoomer/issues) - A library for Minecraft 1.17+ that allows other mods to zoom easily while being able to customize it for their own needs. `MIT`
 - [JsonEM](https://github.com/FoundationGames/JsonEM) - Library for modders, resource pack makers, and modpack makers to create and edit entity models with JSON. ([Wiki](https://github.com/FoundationGames/JsonEM/blob/1.18/README.md)) `MIT`
 - [JSON Model Extensions](https://github.com/vram-guild/json-model-extensions) - Adds support for [FREX Rendering API](https://github.com/vram-guild/frex) features to Minecraft JSON model loading. ([Wiki](https://github.com/vram-guild/json-model-extensions/wiki)) `LGPL-3`
-- [FREX](https://github.com/vram-guild/frex) - A rendering API for Minecraft mods to create content that wouldn't normally be possible. ([Wiki](https://github.com/vram-guild/frex/wiki)) `LGPL-3`
-- [UltralightFabric](https://github.com/isXander/UltralightFabric) - A HTML renderer for Fabric. ([Wiki](https://github.com/isXander/UltralightFabric/wiki)) `LGPL-3`
+- [FREX](https://github.com/vram-guild/frex) - A rendering API for Minecraft mods to create content that wouldn't normally be possible. ([Wiki](https://github.com/vram-guild/frex/wiki)) `LGPL-3.0-only`
+- [UltralightFabric](https://github.com/isXander/UltralightFabric) - A HTML renderer for Fabric. ([Wiki](https://github.com/isXander/UltralightFabric/wiki)) `LGPL-3.0-only`
 
 ### Miscellaneous & Humor
 

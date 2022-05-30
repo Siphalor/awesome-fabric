@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center"><i>A curated list of awesome Fabric resources, libraries and tools - WIP and accepting contributions!</i></p>
-<p align="center"><b>Fabric is a mod loader for the voxel game <a href="https://en.wikipedia.org/wiki/Minecraft">Minecraft</a>.</b></p>
+<p align="center"><b><a href="https://fabricmc.net/">Fabric</a> is a mod loader for the voxel game <a href="https://en.wikipedia.org/wiki/Minecraft">Minecraft</a>.</b></p>
 
 ---
 

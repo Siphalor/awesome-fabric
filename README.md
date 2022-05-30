@@ -144,7 +144,7 @@
 
 ### Conversion
 
-- [Entity Model Remapper](https://www.draylar.dev/entity-model-remapper) - A tool to convert entity models between Yarn and MCP mappings. ([Source](https://github.com/Draylar/entity-model-remapper)) `MIT`
+- [Entity Model Remapper](https://github.com/Draylar/entity-model-remapper) - An [online tool](https://www.draylar.dev/entity-model-remapper) to convert entity models between Yarn and MCP mappings. `MIT`
 
 ### Inspection
 

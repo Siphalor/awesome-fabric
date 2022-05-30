@@ -103,7 +103,7 @@
 
 - [Fabric Shield Lib](https://github.com/CrimsonDawn45/Fabric-Shield-Lib) - Library mod for easily adding shields, and shield enchantments into the game. ([Wiki](https://fabricmc.net/wiki/tutorial:shield)) `LGPL-2.1`
 
-### Java
+### Low-Level Manipulation (E.g. Bytecode)
 
 - [Fabric-ASM](https://github.com/Chocohead/Fabric-ASM) - Utilities for manipulating Java byte code and extending enums. `MPL-2.0`
 

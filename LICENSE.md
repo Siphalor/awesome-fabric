@@ -1,8 +1,4 @@
-<h1 align="center">
-   Creative Commons CC0 1.0 Universal
-   <br />
-   <img src="https://flat.badgen.net/badge/license/CC0/blue" />
-</h1>
+<h1 align="center">Creative Commons CC0 1.0 Universal</h1>
 
 <table><tr><td>
 <br />

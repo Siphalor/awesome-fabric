@@ -58,6 +58,10 @@
 - [AutoConfig](https://github.com/shedaniel/AutoConfig) - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/auto-config)) `Apache-2.0`
 - [Cloth Config](https://github.com/shedaniel/cloth-config) - A client side API for creating configuration screens. ([Wiki](https://shedaniel.gitbook.io/cloth-config)) `Unlicense`
 
+### Data Parsing & Loading
+
+- [Bow Tie](https://github.com/Siphalor/bow-tie/) - Data loading interceptor that enables the use of Hjson, YAML, XML and more instead of JSON. `APACHE`
+
 ### Documentation
 
 - [Patchouli](https://github.com/VazkiiMods/Patchouli/) - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
@@ -95,29 +99,34 @@
 - [Amecs' API](https://github.com/Siphalor/amecs-api) - Allows to define modifier keys (control, shift, alt) for keybindings. `Apache-2.0`
 - [No More Useless Keys - NMUK](https://github.com/Siphalor/nmuk) - Allows you to specify an arbitrary amount of alternative key combinations for key bindings. `Apache-2.0`
 
-### Inventory Systems
+### Inventory & Transfer Systems
 
 - [Trinkets](https://github.com/emilyalexandra/trinkets) - A data-driven accessory mod that adds a slot group and slot system to Minecraft. ([Wiki](https://github.com/emilyploszaj/trinkets/wiki)) `MIT`
+- [LibBlockAttributes](https://github.com/AlexIIL/LibBlockAttributes) -  ([Wiki](https://github.com/AlexIIL/LibBlockAttributes/wiki)) `MPL-2.0`
 
 ### Items & Equippables
 
 - [Fabric Shield Lib](https://github.com/CrimsonDawn45/Fabric-Shield-Lib) - Library mod for easily adding shields, and shield enchantments into the game. ([Wiki](https://fabricmc.net/wiki/tutorial:shield)) `LGPL-2.1`
 
+### Kotlin
+
+- [Fabrik](https://modrinth.com/mod/fabrik) - An API for using FabricMC with Kotlin. It is the bridge between Minecraft and common Kotlin language features, libraries, [DSLs](https://en.wikipedia.org/wiki/Domain-specific_language) and more. ([Wiki](https://jakobkmar.github.io/fabrikmc/)) `GPL-3.0-only`
+
 ### Low-Level Manipulation (E.g. Bytecode)
 
 - [Fabric-ASM](https://github.com/Chocohead/Fabric-ASM) - Utilities for manipulating Java byte code and extending enums. `MPL-2.0`
 
-### Kotlin
+### Miscellaneous & Humor
 
-- [Fabrik](https://modrinth.com/mod/fabrik) - An API for using FabricMC with Kotlin. It is the bridge between Minecraft and common Kotlin language features, libraries, [DSLs](https://en.wikipedia.org/wiki/Domain-specific_language) and more. ([Wiki](https://jakobkmar.github.io/fabrikmc/)) `GPL-3.0-only`
+- [owo](https://github.com/MaowImpl/owo) - [Zuzak](https://github.com/zuzak)'s JS [furry-speak transformation library](https://github.com/zuzak/owo) ported to a Java library.
 
 ### Multipart
 
 - [LibMultiPart](https://github.com/AlexIIL/LibMultiPart) - Adds support for multiple "parts" (such as pipes, facades, wires, etc) in a single block. ([Wiki]([https://github.com/AlexIIL/LibMultiPart/wiki](https://github.com/AlexIIL/LibMultiPart/wiki/Brief-overview))) `MPLv2.0`
 
-### Data Parsing & Loading
+### Networking & Packets
 
-- [Bow Tie](https://github.com/Siphalor/bow-tie/) - Data loading interceptor that enables the use of Hjson, YAML, XML and more instead of JSON. `APACHE`
+- [LibNetworkStack](https://github.com/AlexIIL/LibNetworkStack) - Adds a networking layer for mods to communicate data more easily. ([Wiki](https://github.com/AlexIIL/LibNetworkStack/wiki)) `MPL-2.0`
 
 ### Recipes & Crafting
 
@@ -133,10 +142,7 @@
 - [JSON Model Extensions](https://github.com/vram-guild/json-model-extensions) - Adds support for [FREX Rendering API](https://github.com/vram-guild/frex) features to Minecraft JSON model loading. ([Wiki](https://github.com/vram-guild/json-model-extensions/wiki)) `LGPL-3`
 - [FREX](https://github.com/vram-guild/frex) - A rendering API for Minecraft mods to create content that wouldn't normally be possible. ([Wiki](https://github.com/vram-guild/frex/wiki)) `LGPL-3.0-only`
 - [UltralightFabric](https://github.com/isXander/UltralightFabric) - A HTML renderer for Fabric. ([Wiki](https://github.com/isXander/UltralightFabric/wiki)) `LGPL-3.0-only`
-
-### Miscellaneous & Humor
-
-- [owo](https://github.com/MaowImpl/owo) - [Zuzak](https://github.com/zuzak)'s JS [furry-speak transformation library](https://github.com/zuzak/owo) ported to a Java library.
+- [Renderer](https://github.com/0x3C50/Renderer) - An easy-to-use rendering library for modern FabricMC. ([Wiki](https://github.com/0x3C50/Renderer/blob/master/README.md)) `BSD-3-Clause`
 
 ---
 

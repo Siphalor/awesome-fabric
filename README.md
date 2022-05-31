@@ -8,7 +8,7 @@
 
 ---
 
-<h2 align="center">Contents <code>📑</code></h2>
+<h2 align="center">Contents<br /><code>📑</code></h2>
 
 <div align="center">
   <table>

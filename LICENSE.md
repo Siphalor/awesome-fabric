@@ -1,3 +1,9 @@
+<!--
+Creative Commons Legal Code
+
+CC0 1.0 Universal
+-->
+
 <h1 align="center">
    Creative Commons CC0 1.0 Universal
    <br />

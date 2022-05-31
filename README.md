@@ -36,7 +36,7 @@
     <tr>
       <td>🧰</td>
       <td><a href="#tool">Tool</a></td>
-      <td>**External** programs that generally help with Fabric mod/modpack development.</td>
+      <td><b>External</b> programs that generally help with Fabric mod/modpack development.</td>
     </tr>
   </table>
 </div>

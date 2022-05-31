@@ -52,7 +52,7 @@ A project is eligible to be added to this list if it is:
 
 <p align="center"><i>When creating new <a href="#entry-additions">entries</a>, it may be necessary to create a new category to logcally sort the entry under.</i></p>
 
-1. Make sure there is no existing category underneath the [Library category](README.md#library) that could logically contain the entry.
+1. Make sure there is no existing category underneath one of the [main categories](README.md#contents-) that could logically contain the entry.
 2. Click on the pen icon at the top of the [README](README.md).
 3. Add the category such that it respects alphabetical order amongst the other subcategories. It should use the following convention:
 

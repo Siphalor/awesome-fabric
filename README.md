@@ -11,7 +11,7 @@
 
 ---
 
-<h2 align="center">Contents<br /><code>📑</code></h2>
+<h2 align="center">Contents <code>📑</code></h2>
 
 <div align="center">
   <table>
@@ -20,22 +20,22 @@
     </tr>
     <tr>
       <td>📖</td>
-      <td><a href="#resource">Resource</a></td>
+      <td><a href="#resource-">Resource</a></td>
       <td>Learning resources for modding in Fabric.</td>
     </tr>
     <tr>
       <td>🛠️</td>
-      <td><a href="#development️">Development</a></td>
+      <td><a href="#development-️">Development</a></td>
       <td>Mods that help during the development of other mods.</td>
     </tr>
     <tr>
       <td>💾</td>
-      <td><a href="#library">Library</a></td>
+      <td><a href="#library-">Library</a></td>
       <td>Mods whose functionality is to be used inside other mods.</td>
     </tr>
     <tr>
       <td>🧰</td>
-      <td><a href="#tool">Tool</a></td>
+      <td><a href="#tool-">Tool</a></td>
       <td><b>External</b> programs that generally help with Fabric mod/modpack development.</td>
     </tr>
   </table>
@@ -43,13 +43,13 @@
 
 ---
 
-<h2 align="center">Resource<br /><code>📖</code></h2>
+<h2 align="center">Resource <code>📖</code></h2>
 
 - [Fabric Wiki](https://fabricmc.net/wiki/doku.php) - The official Fabric wiki with a lot of tips and tutorials. `CC-BY-NC-SA-4.0`
 
 ---
 
-<h2 align="center">Development<br /><code>🛠️</code></h2>
+<h2 align="center">Development <code>🛠️</code></h2>
 
 ### Mixins
 
@@ -57,7 +57,7 @@
 
 ---
 
-<h2 align="center">Library<br /><code>💾</code></h2>
+<h2 align="center">Library <code>💾</code></h2>
 
 ### Agnostic (Common & Multi-Feature)
 
@@ -166,7 +166,7 @@
 
 ---
 
-<h2 align="center">Tool<br /><code>🧰</code></h2>
+<h2 align="center">Tool <code>🧰</code></h2>
 
 ### Conversion
 

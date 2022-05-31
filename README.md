@@ -1,6 +1,9 @@
 <h1 align="center">
   Awesome Fabric
-  <p align="center"><img src="https://awesome.re/badge-flat.svg" href="https://awesome.re" /></p>
+  <p align="center">
+    <img src="https://awesome.re/badge-flat.svg" href="https://awesome.re" />
+    <img src="https://flat.badgen.net/badge/license/CC0/blue" href="https://creativecommons.org/publicdomain/zero/1.0/" />
+  </p>
 </h1>
 
 <p align="center"><i>A curated list of awesome Fabric resources, libraries and tools - WIP and accepting contributions!</i></p>

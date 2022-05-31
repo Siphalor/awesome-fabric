@@ -56,14 +56,29 @@ A project is eligible to be added to this list if it is:
 2. Click on the pen icon at the top of the [README](README.md).
 3. Add the category such that it respects alphabetical order amongst the other subcategories. It should use the following convention:
 
-##### Direct child categories of Library:
-```markdown
-### Library Category Name
-```
-##### Grandchild categories of Library (child categories of a child category of Library):
-```markdown
-#### Library Subcategory Name
-```
+<div align="center">
+  <table>
+    <tr>
+      <th colspan=2>Category Depth</th> <th>Markdown Format</th>
+    </tr>
+    <tr>
+      <td align="center"><b>1</b></td>
+      <td align="center"><b>Child</b></td>
+      <td align="center">
+        <br />
+        <pre lang="markdown">### Library Category Name</pre>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>2</b></td>
+      <td align="center"><b>Grandchild<br />(Child of Child)</b></td>
+      <td align="center">
+        <br />
+        <pre lang="markdown">#### Library Subcategory Name</pre>
+      </td>
+    </tr>
+  </table>
+</div>
 
 5. In the description box at the bottom of the page, state what you added.
 6. Propose the changes and open a pull request.

@@ -67,7 +67,7 @@
 
 ### Audio
 
-- [Sound Categories](https://github.com/stashingco/sound-categories) - Allows mods to add more sound categories, and modifies the Minecraft sound settings menu to fit as many categories as required. ([Wiki](https://github.com/stashingco/sound-categories/blob/main/README.md)) `APACHE`
+- [Sound Categories](https://github.com/stashingco/sound-categories) - Allows mods to add more sound categories, and modifies the Minecraft sound settings menu to fit as many categories as required. ([Wiki](https://github.com/stashingco/sound-categories/blob/main/README.md)) `Apache-2.0`
 
 ### Chat
 
@@ -80,7 +80,7 @@
 
 ### Data Parsing & Loading
 
-- [Bow Tie](https://github.com/Siphalor/bow-tie/) - Data loading interceptor that enables the use of Hjson, YAML, XML and more instead of JSON. `APACHE`
+- [Bow Tie](https://github.com/Siphalor/bow-tie/) - Data loading interceptor that enables the use of Hjson, YAML, XML and more instead of JSON. `Apache-2.0`
 
 ### Documentation
 

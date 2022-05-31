@@ -8,28 +8,45 @@
 
 ---
 
-<h2 align="center">Contents</h2>
+<h2 align="center">Contents <code>📑</code></h2>
 
 <div align="center">
-  
-| Category                        | Description                                                                    |
-| ------------------------------- | ------------------------------------------------------------------------------ |
-| [**Resource**](#resource)       | Learning resources for modding in Fabric.                                      |
-| [**Development**](#development) | Mods that help during the development of other mods.                           |
-| [**Library**](#library)         | Mods whose functionality is to be used inside other mods.                      |
-| [**Tool**](#tool)               | **External** programs that generally help with Fabric mod/modpack development. |
-
+  <table>
+    <tr>
+      <th colspan=2>Category</th> <th>Description</th>
+    </tr>
+    <tr>
+      <td>📖</td>
+      <td><a href="#resource">Resource</a></td>
+      <td>Learning resources for modding in Fabric.</td>
+    </tr>
+    <tr>
+      <td>🛠️</td>
+      <td><a href="#development">Development</a></td>
+      <td>Mods that help during the development of other mods.</td>
+    </tr>
+    <tr>
+      <td>💾</td>
+      <td><a href="#library">Library</a></td>
+      <td>Mods whose functionality is to be used inside other mods.</td>
+    </tr>
+    <tr>
+      <td>🧰</td>
+      <td><a href="#tool">Tool</a></td>
+      <td>**External** programs that generally help with Fabric mod/modpack development.</td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<h2 align="center">Resource</h2>
+<h2 align="center">Resource <code>📖</code></h2>
 
 - [Fabric Wiki](https://fabricmc.net/wiki/doku.php) - The official Fabric wiki with a lot of tips and tutorials. `CC-BY-NC-SA-4.0`
 
 ---
 
-<h2 align="center">Development</h2>
+<h2 align="center">Development <code>🛠️</code></h2>
 
 ### Mixins
 
@@ -37,7 +54,7 @@
 
 ---
 
-<h2 align="center">Library</h2>
+<h2 align="center">Library <code>💾</code></h2>
 
 ### Agnostic (Common & Multi-Feature)
 
@@ -146,7 +163,7 @@
 
 ---
 
-<h2 align="center">Tool</h2>
+<h2 align="center">Tool <code>🧰</code></h2>
 
 ### Conversion
 

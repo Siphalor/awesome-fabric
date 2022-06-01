@@ -78,9 +78,10 @@
 - [AutoConfig](https://github.com/shedaniel/AutoConfig) - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/auto-config)) `Apache-2.0`
 - [Cloth Config](https://github.com/shedaniel/cloth-config) - A client side API for creating configuration screens. ([Wiki](https://shedaniel.gitbook.io/cloth-config)) `Unlicense`
 
-### Data Parsing & Loading
+### Data Parsing, Loading & Generation
 
 - [Bow Tie](https://github.com/Siphalor/bow-tie/) - Data loading interceptor that enables the use of Hjson, YAML, XML and more instead of JSON. `Apache-2.0`
+- [ARRP](https://github.com/Devan-Kerman/ARRP) - **A**dvanced **R**untime **R**esource **P**acks (for Fabric). ([Wiki](https://github.com/Devan-Kerman/ARRP/wiki)) `MPL-2.0`
 
 ### Documentation
 

@@ -22,25 +22,12 @@ A project is eligible to be added to this list if it is:
 3. Add the entry such that it respects alphabetical order within its parent category. It should use the following convention with a [SPDX License Identifier](https://spdx.org/licenses):
 
 <div align="center">
-  <table>
-    <tr>
-      <th>Wiki Available</th> <th>Markdown Format</th>
-    </tr>
-    <tr>
-      <td align="center">✔️</td>
-      <td align="center">
-        <br />
-        <pre lang="markdown">[Project Name](Source Link) - Description. ([Wiki](Wiki Link)) `SPDX License Identifier`</pre>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">❌</td>
-      <td align="center">
-        <br />
-        <pre lang="markdown">[Project Name](Source Link) - Description. `SPDX License Identifier`</pre>
-      </td>
-    </tr>
-  </table>
+
+| Wiki Available     | Markdown Format                                                                                                           |
+| :----------------: | :-----------------------------------------------------------------------------------------------------------------------: |
+| :heavy_check_mark: | <br /><pre lang="markdown">[Project Name](Source Link) - Description. ([Wiki](Wiki Link)) `SPDX License Identifier`</pre> |
+| :x:                | <br /><pre lang="markdown">[Project Name](Source Link) - Description. `SPDX License Identifier`</pre>                     |
+    
 </div>
 
 5. In the description box at the bottom of the page, state what you added.

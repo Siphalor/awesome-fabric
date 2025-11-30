@@ -86,6 +86,10 @@
 
 - [Patchouli](https://github.com/VazkiiMods/Patchouli/) - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
 
+### Food
+
+- [Capsaicin](https://github.com/Siphalor/capsaicin) - Allows to dynamically modify food properties of items. `Apache-2.0`
+
 ### Entities
 
 #### Disguising & Impersonation

@@ -41,6 +41,10 @@
   </table>
 </div>
 
+The following symbols are used in this list:
+- `🏰` - A link to the [Modrinth](https://modrinth.com/) page of the library/mod.
+- `🔝` - The latest Minecraft version supported by the library/mod (as pulled from Modrinth).
+
 ---
 
 <h2 align="center">Resource <code>📖</code></h2>
@@ -68,30 +72,30 @@
 
 ### Agnostic (Common & Multi-Feature)
 
-- [Fabric API](https://github.com/FabricMC/fabric) - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
-- [oωo (owo-lib)](https://github.com/glisco03/owo-lib) - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md)) `MIT`
+- [Fabric API](https://github.com/FabricMC/fabric) [`🏰`](https://modrinth.com/mod/fabric-api) - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+- [oωo (owo-lib)](https://github.com/glisco03/owo-lib) [`🏰`](https://modrinth.com/mod/owo-lib) - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md)) `MIT`
 
 ### Audio
 
-- [Sound Categories](https://github.com/stashingco/sound-categories) - Allows mods to add more sound categories, and modifies the Minecraft sound settings menu to fit as many categories as required. ([Wiki](https://github.com/stashingco/sound-categories/blob/main/README.md)) `Apache-2.0`
+- [Sound Categories](https://github.com/stashingco/sound-categories) [`🏰`](https://modrinth.com/mod/sound-categories) - Allows mods to add more sound categories, and modifies the Minecraft sound settings menu to fit as many categories as required. ([Wiki](https://github.com/stashingco/sound-categories/blob/main/README.md)) `Apache-2.0`
 
 ### Chat
 
-- [AdvancedChatCore](https://github.com/DarkKronicle/AdvancedChatCore) - The base mod of all AdvancedChat modules and features, presenting an API to achieve many different functionalities related to the Minecraft chat. ([Wiki](https://darkkronicle.github.io/AdvancedChatCore/)) `MPL-2.0`
-- [oωo (owo-lib)](https://github.com/glisco03/owo-lib) - A general utility library for content-focused modding on Fabric. ([Wiki](https://docs.wispforest.io/owo/setup)) `MIT`
+- [AdvancedChatCore](https://github.com/DarkKronicle/AdvancedChatCore) [`🏰`](https://modrinth.com/mod/advancedchatcore) - The base mod of all AdvancedChat modules and features, presenting an API to achieve many different functionalities related to the Minecraft chat. ([Wiki](https://darkkronicle.github.io/AdvancedChatCore/)) `MPL-2.0`
+- [oωo (owo-lib)](https://github.com/glisco03/owo-lib) [`🏰`](https://modrinth.com/mod/owo-lib) - A general utility library for content-focused modding on Fabric. ([Wiki](https://docs.wispforest.io/owo/setup)) `MIT`
 
 ### Configs
 
-- [AutoConfig](https://github.com/shedaniel/AutoConfig) - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/auto-config)) `Apache-2.0`
-- [oωo (owo-lib)](https://github.com/glisco03/owo-lib) - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
+- [Cloth Config](https://github.com/shedaniel/ClothConfig/) [`🏰`](https://modrinth.com/mod/cloth-config) - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
+- [oωo (owo-lib)](https://github.com/glisco03/owo-lib) [`🏰`](https://modrinth.com/mod/owo-lib) - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
 
 ### Data Parsing, Loading & Generation
 
-- [ARRP](https://github.com/Devan-Kerman/ARRP) - **A**dvanced **R**untime **R**esource **P**acks (for Fabric). ([Wiki](https://github.com/Devan-Kerman/ARRP/wiki)) `MPL-2.0`
+- [ARRP](https://github.com/Devan-Kerman/ARRP) [`🏰`](https://modrinth.com/mod/arrp) - **A**dvanced **R**untime **R**esource **P**acks (for Fabric). ([Wiki](https://github.com/Devan-Kerman/ARRP/wiki)) `MPL-2.0`
 
 ### Documentation
 
-- [Patchouli](https://github.com/VazkiiMods/Patchouli/) - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
+- [Patchouli](https://github.com/VazkiiMods/Patchouli/) [`🏰`](https://modrinth.com/mod/patchouli) - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
 
 ### Food
 
@@ -101,8 +105,8 @@
 
 #### Disguising & Impersonation
 
-- [DisguiseLib](https://github.com/NucleoidMC/DisguiseLib) - A (server-side) library for disguising entities in Minecraft. `MIT`
-- [Impersonate](https://github.com/Ladysnake/Impersonate) - Allows players to take on the name and appearance of other players. `LGPL-3.0-only`
+- [DisguiseLib](https://github.com/NucleoidMC/DisguiseLib) [`🏰`](https://modrinth.com/mod/disguiselib) - A (server-side) library for disguising entities in Minecraft. `MIT`
+- [Impersonate](https://github.com/Ladysnake/Impersonate) [`🏰`](https://modrinth.com/mod/impersonate) - Allows players to take on the name and appearance of other players. `LGPL-3.0-only`
 
 ### Generation
 
@@ -111,21 +115,21 @@
 ### GUIs & Menus
 
 - [SpruceUI](https://github.com/LambdAurora/SpruceUI) - Utilities for creating GUIs. `MIT`
-- [Main Menu Credits](https://github.com/isXander/main-menu-credits) - Adds a way of adding information to the user's title screen. ([Wiki](https://github.com/isXander/main-menu-credits/wiki/Usage)) `LGPL-3.0-only`
+- [Main Menu Credits](https://github.com/isXander/main-menu-credits) [`🏰`](https://modrinth.com/mod/main-menu-credits) - Adds a way of adding information to the user's title screen. ([Wiki](https://github.com/isXander/main-menu-credits/wiki/Usage)) `LGPL-3.0-only`
 
 ### Input Methods & Keybinds
 
 - [Amecs' API](https://github.com/Siphalor/amecs-api) - Allows to define modifier keys (control, shift, alt) for keybindings. `Apache-2.0`
-- [No More Useless Keys - NMUK](https://github.com/Siphalor/nmuk) - Allows you to specify an arbitrary amount of alternative key combinations for key bindings. `Apache-2.0`
+- [No More Useless Keys - NMUK](https://github.com/Siphalor/nmuk) [`🏰`](https://modrinth.com/mod/nmuk) - Allows you to specify an arbitrary amount of alternative key combinations for key bindings. `Apache-2.0`
 
 ### Inventory & Transfer Systems
 
-- [Trinkets](https://github.com/emilyalexandra/trinkets) - A data-driven accessory mod that adds a slot group and slot system to Minecraft. ([Wiki](https://github.com/emilyploszaj/trinkets/wiki)) `MIT`
+- [Trinkets](https://github.com/emilyalexandra/trinkets) [`🏰`](https://modrinth.com/mod/trinkets) - A data-driven accessory mod that adds a slot group and slot system to Minecraft. ([Wiki](https://github.com/emilyploszaj/trinkets/wiki)) `MIT`
 - [LibBlockAttributes](https://github.com/AlexIIL/LibBlockAttributes) -  ([Wiki](https://github.com/AlexIIL/LibBlockAttributes/wiki)) `MPL-2.0`
 
 ### Items & Equippables
 
-- [Fabric Shield Lib](https://github.com/CrimsonDawn45/Fabric-Shield-Lib) - Library mod for easily adding shields, and shield enchantments into the game. ([Wiki](https://fabricmc.net/wiki/tutorial:shield)) `LGPL-2.1`
+- [Shield Lib](https://github.com/StellarWind22/Shield-Lib) [`🏰`](https://modrinth.com/mod/shieldlib) - Library mod for easily adding shields, and shield enchantments into the game. ([Wiki](https://fabricmc.net/wiki/tutorial:shield)) `LGPL-2.1`
 
 ### Low-Level Manipulation (E.g. Bytecode)
 
@@ -141,27 +145,23 @@
 
 ### Recipes & Crafting
 
-- [Nbt Crafting](https://github.com/Siphalor/nbt-crafting) - JSON-driven nbt data in recipes and remainders as well as brewing recipes and a lot more. ([Wiki](https://mcwiki.siphalor.de/nbt-crafting/v2)) `Apache-2.0`
-- [Push To Craft](https://github.com/Siphalor/push-to-craft) - Allows to provide alternatives for recipe ingredients in a general fashion. `MIT`
-- [Smart Recipes](https://github.com/Kir-Antipov/smart-recipes) - Extends the recipe format with conditions. ([Wiki](https://github.com/Kir-Antipov/smart-recipes#readme)) `MIT`
+- [Nbt Crafting](https://github.com/Siphalor/nbt-crafting) [`🏰`](https://modrinth.com/mod/nbt-crafting) - JSON-driven nbt data in recipes and remainders as well as brewing recipes and a lot more. ([Wiki](https://mcwiki.siphalor.de/nbt-crafting/v2)) `Apache-2.0`
+- [Push To Craft](https://github.com/Siphalor/push-to-craft) [`🏰`](https://modrinth.com/mod/push-to-craft) - Allows to provide alternatives for recipe ingredients in a general fashion. `MIT`
+- [Smart Recipes](https://github.com/Kir-Antipov/smart-recipes) [`🏰`](https://modrinth.com/mod/smart-recipes) - Extends the recipe format with conditions. ([Wiki](https://github.com/Kir-Antipov/smart-recipes#readme)) `MIT`
 
 ### Visual, Models, Rendering & Animation
 
-- [GeckoLib](https://github.com/bernie-g/geckolib) - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started)) `LGPL-3.0-only`
+- [GeckoLib](https://github.com/bernie-g/geckolib) [`🏰`](https://modrinth.com/mod/geckolib) - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started)) `LGPL-3.0-only`
 - [LibZoomer](https://github.com/EnnuiL/LibZoomer/issues) - A library for Minecraft 1.17+ that allows other mods to zoom easily while being able to customize it for their own needs. `MIT`
-- [JsonEM](https://github.com/FoundationGames/JsonEM) - Library for modders, resource pack makers, and modpack makers to create and edit entity models with JSON. ([Wiki](https://github.com/FoundationGames/JsonEM/blob/1.18/README.md)) `MIT`
-- [JSON Model Extensions](https://github.com/vram-guild/json-model-extensions) - Adds support for [FREX Rendering API](https://github.com/vram-guild/frex) features to Minecraft JSON model loading. ([Wiki](https://github.com/vram-guild/json-model-extensions/wiki)) `LGPL-3`
-- [FREX](https://github.com/vram-guild/frex) - A rendering API for Minecraft mods to create content that wouldn't normally be possible. ([Wiki](https://github.com/vram-guild/frex/wiki)) `LGPL-3.0-only`
-- [UltralightFabric](https://github.com/isXander/UltralightFabric) - A HTML renderer for Fabric. ([Wiki](https://github.com/isXander/UltralightFabric/wiki)) `LGPL-3.0-only`
-- [Renderer](https://github.com/0x3C50/Renderer) - An easy-to-use rendering library for modern FabricMC. ([Wiki](https://github.com/0x3C50/Renderer/blob/master/README.md)) `BSD-3-Clause`
+- [JsonEM](https://github.com/FoundationGames/JsonEM) [`🏰`](https://modrinth.com/mod/jsonem) - Library for modders, resource pack makers, and modpack makers to create and edit entity models with JSON. ([Wiki](https://github.com/FoundationGames/JsonEM/blob/1.18/README.md)) `MIT`
+- [JSON Model Extensions](https://github.com/vram-guild/json-model-extensions) [`🏰`](https://modrinth.com/mod/imx) - Adds support for [FREX Rendering API](https://github.com/vram-guild/frex) features to Minecraft JSON model loading. ([Wiki](https://github.com/vram-guild/json-model-extensions/wiki)) `LGPL-3`
+- [FREX](https://github.com/vram-guild/frex) [`🏰`](https://modrinth.com/mod/imx) - A rendering API for Minecraft mods to create content that wouldn't normally be possible. ([Wiki](https://github.com/vram-guild/frex/wiki)) `LGPL-3.0-only`
+- [UltralightFabric](https://github.com/isXander/UltralightFabric) [`🏰`](https://modrinth.com/mod/ultralightfabric) - A HTML renderer for Fabric. ([Wiki](https://github.com/isXander/UltralightFabric/wiki)) `LGPL-3.0-only`
+- [Renderer](https://github.com/0x3C50/Renderer) [`🏰`](https://modrinth.com/mod/renderer) - An easy-to-use rendering library for modern FabricMC. ([Wiki](https://github.com/0x3C50/Renderer/blob/master/README.md)) `BSD-3-Clause`
 
 ---
 
 <h2 align="center">Tool <code>🧰</code></h2>
-
-### Conversion
-
-- [Entity Model Remapper](https://github.com/Draylar/entity-model-remapper) - An [online tool](https://www.draylar.dev/entity-model-remapper) to convert entity models between Yarn and MCP mappings. `MIT`
 
 ### Inspection
 

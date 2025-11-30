@@ -61,8 +61,7 @@
 
 ### Agnostic (Common & Multi-Feature)
 
-- [Fabric API](https://github.com/FabricMC/fabric) - Essential hooks and patches for modding with Fabric. ([Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
-- [Mesh](https://github.com/GlassPane/Mesh) - A modding library with various utilities, such as auto-registration of items and blocks, or crafting recipe generation. ([Wiki](https://github.com/GlassPane/Mesh/blob/1.18/README.md)) `LGPL-3.0-only`
+- [Fabric API](https://github.com/FabricMC/fabric) - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 - [oωo (owo-lib)](https://github.com/glisco03/owo-lib) - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md)) `MIT`
 
 ### Audio
@@ -72,15 +71,15 @@
 ### Chat
 
 - [AdvancedChatCore](https://github.com/DarkKronicle/AdvancedChatCore) - The base mod of all AdvancedChat modules and features, presenting an API to achieve many different functionalities related to the Minecraft chat. ([Wiki](https://darkkronicle.github.io/AdvancedChatCore/)) `MPL-2.0`
+- [oωo (owo-lib)](https://github.com/glisco03/owo-lib) - A general utility library for content-focused modding on Fabric. ([Wiki](https://docs.wispforest.io/owo/setup)) `MIT`
 
 ### Configs
 
 - [AutoConfig](https://github.com/shedaniel/AutoConfig) - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/auto-config)) `Apache-2.0`
-- [Cloth Config](https://github.com/shedaniel/cloth-config) - A client side API for creating configuration screens. ([Wiki](https://shedaniel.gitbook.io/cloth-config)) `Unlicense`
+- [oωo (owo-lib)](https://github.com/glisco03/owo-lib) - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
 
 ### Data Parsing, Loading & Generation
 
-- [Bow Tie](https://github.com/Siphalor/bow-tie/) - Data loading interceptor that enables the use of Hjson, YAML, XML and more instead of JSON. `Apache-2.0`
 - [ARRP](https://github.com/Devan-Kerman/ARRP) - **A**dvanced **R**untime **R**esource **P**acks (for Fabric). ([Wiki](https://github.com/Devan-Kerman/ARRP/wiki)) `MPL-2.0`
 
 ### Documentation
@@ -92,23 +91,11 @@
 #### Disguising & Impersonation
 
 - [DisguiseLib](https://github.com/NucleoidMC/DisguiseLib) - A (server-side) library for disguising entities in Minecraft. `MIT`
-- [Impersonate](https://github.com/Ladysnake/Impersonate) - Allows players to take on the name and appearance of other players. ([Wiki](https://github.com/Ladysnake/Impersonate/blob/1.17/README.md)) `LGPL-3.0-only`
-
-#### Villagers & Trading
-
-- [SimpleJsonVillagerTrades](https://github.com/aws404/SimpleJsonVillagerTrades) - A small jar-in-jar-able or standalone library to modify/add merchant trades via datapacks. ([Wiki](https://github.com/aws404/SimpleJsonVillagerTrades/wiki/Trade-Offer-JSON-Files)) `CC0`
-
-#### Piglins & Bartering
-
-- [Piglib](https://github.com/Shnupbups/Piglib) - Adds item tags for various Piglin related things that Mojang were too silly to add themselves! ([Wiki](https://github.com/Shnupbups/Piglib/blob/1.18.2/README.md)) `LGPL-3.0-only`
-
-#### Attributes
-
-- [Air Strafing Attribute](https://github.com/CammiePone/Air-Strafing-Attribute) - Adds an attribute for the flyingSpeed variable so multiple mods can safely modify the air strafing speed of entities. ([Wiki](https://github.com/CammiePone/Air-Strafing-Attribute/blob/1.17-dev/README.md)) `MIT`
+- [Impersonate](https://github.com/Ladysnake/Impersonate) - Allows players to take on the name and appearance of other players. `LGPL-3.0-only`
 
 ### Generation
 
-- [Terraformers' Shapes](https://github.com/TerraformersMC/Shapes) - A context independent library for generating voxel shapes using mathematical equations. ([Wiki](https://github.com/TerraformersMC/Shapes/wiki/Using-Shapes)) `MIT`
+- [Terraformers' Shapes](https://github.com/TerraformersMC/Terraform) - A context independent library for generating voxel shapes using mathematical equations. ([Wiki](https://github.com/TerraformersMC/Shapes/wiki/Using-Shapes)) `MIT`
 
 ### GUIs & Menus
 
@@ -129,17 +116,9 @@
 
 - [Fabric Shield Lib](https://github.com/CrimsonDawn45/Fabric-Shield-Lib) - Library mod for easily adding shields, and shield enchantments into the game. ([Wiki](https://fabricmc.net/wiki/tutorial:shield)) `LGPL-2.1`
 
-### Kotlin
-
-- [Fabrik](https://modrinth.com/mod/fabrik) - An API for using FabricMC with Kotlin. It is the bridge between Minecraft and common Kotlin language features, libraries, [DSLs](https://en.wikipedia.org/wiki/Domain-specific_language) and more. ([Wiki](https://jakobkmar.github.io/fabrikmc/)) `GPL-3.0-only`
-
 ### Low-Level Manipulation (E.g. Bytecode)
 
 - [Fabric-ASM](https://github.com/Chocohead/Fabric-ASM) - Utilities for manipulating Java byte code and extending enums. `MPL-2.0`
-
-### Miscellaneous & Humor
-
-- [owo](https://github.com/MaowImpl/owo) - [Zuzak](https://github.com/zuzak)'s JS [furry-speak transformation library](https://github.com/zuzak/owo) ported to a Java library.
 
 ### Multipart
 
@@ -183,7 +162,7 @@
 
 ### Versioning
 
-- [GIUP](https://github.com/Siphalor/giup) - Allows to maintain mods that are spread across branches for different MC versions. `Apache-2.0`
+- [GIUP](https://github.com/Siphalor/giup) - Helps to maintain mods that are spread across Git branches for different MC versions. `Apache-2.0`
 
 ### IDE Plugins
 
@@ -191,4 +170,5 @@
 
 ### Mappings
 
+- [mappings.dev](https://mappings.dev) - A website that allows you to convert between different mappings formats, Yarn, MCP, intermediary and Mojmap.
 - [yarn-cli](https://github.com/ByMartrixx/yarn-cli) - CLI to look up yarn/intermediary mappings. `MIT`

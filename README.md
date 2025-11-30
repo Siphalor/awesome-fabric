@@ -131,9 +131,10 @@ The following symbols are used in this list:
 
 - [Shield Lib](https://github.com/StellarWind22/Shield-Lib) [`🏰`](https://modrinth.com/mod/shieldlib) `🔝 1.21.8` - Library mod for easily adding shields, and shield enchantments into the game. ([Wiki](https://fabricmc.net/wiki/tutorial:shield)) `LGPL-2.1`
 
-### Low-Level Manipulation (E.g. Bytecode)
+### Low-Level Manipulation (e.g. mixins or bytecode)
 
 - [Fabric-ASM](https://github.com/Chocohead/Fabric-ASM) - Utilities for manipulating Java byte code and extending enums. `MPL-2.0`
+- [Mixin Constraints](https://github.com/Moulberry/MixinConstraints) - Annotation-based system to conditionally enable/disable Mixins. `MIT`
 
 ### Multipart
 

@@ -45,7 +45,14 @@
 
 <h2 align="center">Resource <code>📖</code></h2>
 
-- [Fabric Wiki](https://fabricmc.net/wiki/doku.php) - The official Fabric wiki with a lot of tips and tutorials. `CC-BY-NC-SA-4.0`
+- [Fabric Wiki](https://docs.fabricmc.net/) - The official Fabric wiki with a lot of tips and tutorials. `CC-BY-NC-SA-4.0`
+- [Old Fabric Wiki](https://fabricmc.net/wiki/doku.php) - Ye olde Fabric wiki. Looks a bit dated but this is where everything started. `CC-BY-NC-SA-4.0`
+
+### Mixins
+
+- [Official Wiki](https://github.com/SpongePowered/Mixin/wiki) - Contains some in-depth technical information, but is also missing a lot of topics.
+- [MixinExtras Wiki](https://github.com/LlamaLad7/MixinExtras/wiki) - MixinExtras is nowadays included in Fabric loader, so you can use all of it out of the box.
+- [Unofficial Wiki](https://mixin-wiki.readthedocs.io/) - A simpler and more beginner-friendly version of the official wiki.
 
 ---
 

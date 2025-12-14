@@ -120,7 +120,7 @@ The following symbols are used in this list:
 ### Input Methods & Keybinds
 
 - [Amecs' API](https://github.com/Siphalor/amecs-api) - Allows to define modifier keys (control, shift, alt) for keybindings. `Apache-2.0`
-- [No More Useless Keys - NMUK](https://github.com/Siphalor/nmuk) [`🏰`](https://modrinth.com/mod/nmuk) `🔝 1.21.10` - Allows you to specify an arbitrary amount of alternative key combinations for key bindings. `Apache-2.0`
+- [No More Useless Keys - NMUK](https://github.com/Siphalor/nmuk) [`🏰`](https://modrinth.com/mod/nmuk) `🔝 1.21.11` - Allows you to specify an arbitrary amount of alternative key combinations for key bindings. `Apache-2.0`
 
 ### Inventory & Transfer Systems
 

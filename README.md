@@ -91,7 +91,7 @@ The following symbols are used in this list:
 
 ### Data Parsing, Loading & Generation
 
-- [ARRP](https://github.com/Devan-Kerman/ARRP) [`🏰`](https://modrinth.com/mod/arrp) `🔝 1.21.11 / 26.1-snapshot-6` - **A**dvanced **R**untime **R**esource **P**acks (for Fabric). ([Wiki](https://github.com/Devan-Kerman/ARRP/wiki)) `MPL-2.0`
+- [ARRP](https://github.com/Devan-Kerman/ARRP) [`🏰`](https://modrinth.com/mod/arrp) `🔝 1.21.11 / 26.1-rc-2` - **A**dvanced **R**untime **R**esource **P**acks (for Fabric). ([Wiki](https://github.com/Devan-Kerman/ARRP/wiki)) `MPL-2.0`
 
 ### Documentation
 

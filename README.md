@@ -86,7 +86,7 @@ The following symbols are used in this list:
 
 ### Configs
 
-- [Cloth Config](https://github.com/shedaniel/ClothConfig/) [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 1.21.11` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
+- [Cloth Config](https://github.com/shedaniel/ClothConfig/) [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.1` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
 - [oωo (owo-lib)](https://github.com/glisco03/owo-lib) [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.1` - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
 
 ### Data Parsing, Loading & Generation
@@ -115,7 +115,7 @@ The following symbols are used in this list:
 ### GUIs & Menus
 
 - [SpruceUI](https://github.com/LambdAurora/SpruceUI) - Utilities for creating GUIs. `MIT`
-- [Main Menu Credits](https://github.com/isXander/main-menu-credits) [`🏰`](https://modrinth.com/mod/main-menu-credits) `🔝 1.21.8` - Adds a way of adding information to the user's title screen. ([Wiki](https://github.com/isXander/main-menu-credits/wiki/Usage)) `LGPL-3.0-only`
+- [Main Menu Credits](https://github.com/isXander/main-menu-credits) [`🏰`](https://modrinth.com/mod/main-menu-credits) `🔝 26.1` - Adds a way of adding information to the user's title screen. ([Wiki](https://github.com/isXander/main-menu-credits/wiki/Usage)) `LGPL-3.0-only`
 
 ### Input Methods & Keybinds
 

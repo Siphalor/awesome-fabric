@@ -151,7 +151,7 @@ The following symbols are used in this list:
 
 ### Visual, Models, Rendering & Animation
 
-- [GeckoLib](https://github.com/bernie-g/geckolib) [`🏰`](https://modrinth.com/mod/geckolib) `🔝 26.1` - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started)) `LGPL-3.0-only`
+- [GeckoLib](https://github.com/bernie-g/geckolib) [`🏰`](https://modrinth.com/mod/geckolib) `🔝 26.1.2` - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started)) `LGPL-3.0-only`
 - [LibZoomer](https://github.com/EnnuiL/LibZoomer/issues) - A library for Minecraft 1.17+ that allows other mods to zoom easily while being able to customize it for their own needs. `MIT`
 - [JsonEM](https://github.com/FoundationGames/JsonEM) [`🏰`](https://modrinth.com/mod/jsonem) `🔝 1.21.8` - Library for modders, resource pack makers, and modpack makers to create and edit entity models with JSON. ([Wiki](https://github.com/FoundationGames/JsonEM/blob/1.18/README.md)) `MIT`
 - [JSON Model Extensions](https://github.com/vram-guild/json-model-extensions) [`🏰`](https://modrinth.com/mod/imx) `🔝 1.20.1` - Adds support for [FREX Rendering API](https://github.com/vram-guild/frex) features to Minecraft JSON model loading. ([Wiki](https://github.com/vram-guild/json-model-extensions/wiki)) `LGPL-3`

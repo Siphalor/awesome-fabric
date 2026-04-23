@@ -73,7 +73,7 @@ The following symbols are used in this list:
 ### Agnostic (Common & Multi-Feature)
 
 - [Fabric API](https://github.com/FabricMC/fabric) [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.1.2 / 26.2-snapshot-4` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
-- [oωo (owo-lib)](https://github.com/glisco03/owo-lib) [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.1` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md)) `MIT`
+- [oωo (owo-lib)](https://github.com/glisco03/owo-lib) [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.1.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md)) `MIT`
 
 ### Audio
 
@@ -82,12 +82,12 @@ The following symbols are used in this list:
 ### Chat
 
 - [AdvancedChatCore](https://github.com/DarkKronicle/AdvancedChatCore) [`🏰`](https://modrinth.com/mod/advancedchatcore) `🔝 1.19.4` - The base mod of all AdvancedChat modules and features, presenting an API to achieve many different functionalities related to the Minecraft chat. ([Wiki](https://darkkronicle.github.io/AdvancedChatCore/)) `MPL-2.0`
-- [oωo (owo-lib)](https://github.com/glisco03/owo-lib) [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.1` - A general utility library for content-focused modding on Fabric. ([Wiki](https://docs.wispforest.io/owo/setup)) `MIT`
+- [oωo (owo-lib)](https://github.com/glisco03/owo-lib) [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.1.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://docs.wispforest.io/owo/setup)) `MIT`
 
 ### Configs
 
 - [Cloth Config](https://github.com/shedaniel/ClothConfig/) [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.1.2` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
-- [oωo (owo-lib)](https://github.com/glisco03/owo-lib) [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.1` - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
+- [oωo (owo-lib)](https://github.com/glisco03/owo-lib) [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.1.2` - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
 
 ### Data Parsing, Loading & Generation
 

@@ -181,5 +181,6 @@ The following symbols are used in this list:
 
 ### Mappings
 
-- [mappings.dev](https://mappings.dev) - A website that allows you to convert between different mappings formats, Yarn, MCP, intermediary and Mojmap.
+- [Linkie](https://linkie.shedaniel.dev/) - A website that allows looking up and finding mappings in different formats.
+- [mappings.dev](https://mappings.dev) - Another website that allows you to convert between different mappings formats.
 - [yarn-cli](https://github.com/ByMartrixx/yarn-cli) - CLI to look up yarn/intermediary mappings. `MIT`

@@ -149,6 +149,10 @@ The following symbols are used in this list:
 - [Push To Craft](https://github.com/Siphalor/push-to-craft) [`🏰`](https://modrinth.com/mod/push-to-craft) `🔝 1.19.2` - Allows to provide alternatives for recipe ingredients in a general fashion. `MIT`
 - [Smart Recipes](https://github.com/Kir-Antipov/smart-recipes) [`🏰`](https://modrinth.com/mod/smart-recipes) `🔝 1.20.4` - Extends the recipe format with conditions. ([Wiki](https://github.com/Kir-Antipov/smart-recipes#readme)) `MIT`
 
+### Server-Side Only
+
+- [Polymer](https://github.com/Patbox/polymer) [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.1.2` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
+
 ### Visual, Models, Rendering & Animation
 
 - [GeckoLib](https://github.com/bernie-g/geckolib) [`🏰`](https://modrinth.com/mod/geckolib) `🔝 26.1.2` - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started)) `LGPL-3.0-only`

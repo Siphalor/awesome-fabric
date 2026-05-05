@@ -72,7 +72,7 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-- [Fabric API](https://github.com/FabricMC/fabric) [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.1.2 / 26.2-snapshot-5` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+- [Fabric API](https://github.com/FabricMC/fabric) [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.1.2 / 26.2-snapshot-6` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 - [oωo (owo-lib)](https://github.com/glisco03/owo-lib) [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.1.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md)) `MIT`
 
 ### Audio

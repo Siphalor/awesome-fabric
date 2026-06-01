@@ -115,7 +115,7 @@ The following symbols are used in this list:
 ### GUIs & Menus
 
 - [SpruceUI](https://github.com/LambdAurora/SpruceUI) - Utilities for creating GUIs. `MIT`
-- [Main Menu Credits](https://github.com/isXander/main-menu-credits) [`🏰`](https://modrinth.com/mod/main-menu-credits) `🔝 26.1` - Adds a way of adding information to the user's title screen. ([Wiki](https://github.com/isXander/main-menu-credits/wiki/Usage)) `LGPL-3.0-only`
+- [Main Menu Credits](https://github.com/isXander/main-menu-credits) [`🏰`](https://modrinth.com/mod/main-menu-credits) `🔝 26.1.2` - Adds a way of adding information to the user's title screen. ([Wiki](https://github.com/isXander/main-menu-credits/wiki/Usage)) `LGPL-3.0-only`
 
 ### Input Methods & Keybinds
 

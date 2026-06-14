@@ -151,7 +151,7 @@ The following symbols are used in this list:
 
 ### Server-Side Only
 
-- [Polymer](https://github.com/Patbox/polymer) [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.1.2` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
+- [Polymer](https://github.com/Patbox/polymer) [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.1.2 / 26.2-rc-2` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
 
 ### Visual, Models, Rendering & Animation
 

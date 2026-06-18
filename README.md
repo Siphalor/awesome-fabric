@@ -86,7 +86,7 @@ The following symbols are used in this list:
 
 ### Configs
 
-- [Cloth Config](https://github.com/shedaniel/ClothConfig/) [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.1.2` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
+- [Cloth Config](https://github.com/shedaniel/ClothConfig/) [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.2` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
 - [oωo (owo-lib)](https://github.com/glisco03/owo-lib) [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.1.2` - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
 
 ### Data Parsing, Loading & Generation
@@ -119,7 +119,7 @@ The following symbols are used in this list:
 
 ### Input Methods & Keybinds
 
-- [The Sisterhood of Amecs](https://github.com/Siphalor/amecs) [`🏰`](https://modrinth.com/mod/amecs) `🔝 26.1.2 / 26.2-pre-2` - Various key binding related features such as key modifiers, multiple shortcuts per binding, priority key bindings or key binding descriptions `Apache-2.0`
+- [The Sisterhood of Amecs](https://github.com/Siphalor/amecs) [`🏰`](https://modrinth.com/mod/amecs) `🔝 26.2` - Various key binding related features such as key modifiers, multiple shortcuts per binding, priority key bindings or key binding descriptions `Apache-2.0`
 
 ### Inventory & Transfer Systems
 
@@ -151,7 +151,7 @@ The following symbols are used in this list:
 
 ### Server-Side Only
 
-- [Polymer](https://github.com/Patbox/polymer) [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.1.2 / 26.2-rc-2` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
+- [Polymer](https://github.com/Patbox/polymer) [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.2` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
 
 ### Visual, Models, Rendering & Animation
 

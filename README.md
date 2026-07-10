@@ -95,7 +95,7 @@ The following symbols are used in this list:
 
 ### Documentation
 
-- [Patchouli](https://github.com/VazkiiMods/Patchouli/) [`🏰`](https://modrinth.com/mod/patchouli) `🔝 1.21.1` - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
+- [Patchouli](https://github.com/VazkiiMods/Patchouli/) [`🏰`](https://modrinth.com/mod/patchouli) `🔝 26.1.2` - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
 
 ### Food
 

@@ -72,7 +72,7 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-- [Fabric API](https://github.com/FabricMC/fabric) [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26.4-snapshot-6` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+- [Fabric API](https://github.com/FabricMC/fabric) [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26w14a` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 - [oωo (owo-lib)](https://github.com/glisco03/owo-lib) [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md)) `MIT`
 
 ### Audio
@@ -106,7 +106,7 @@ The following symbols are used in this list:
 #### Disguising & Impersonation
 
 - [DisguiseLib](https://github.com/NucleoidMC/DisguiseLib) [`🏰`](https://modrinth.com/mod/disguiselib) `🔝 1.19.3` - A (server-side) library for disguising entities in Minecraft. `MIT`
-- [Impersonate](https://github.com/Ladysnake/Impersonate) [`🏰`](https://modrinth.com/mod/impersonate) `🔝 1.21.11` - Allows players to take on the name and appearance of other players. `LGPL-3.0-only`
+- [Impersonate](https://github.com/Ladysnake/Impersonate) [`🏰`](https://modrinth.com/mod/impersonate) `🔝 1.21.4` - Allows players to take on the name and appearance of other players. `LGPL-3.0-only`
 
 ### Generation
 
@@ -119,7 +119,7 @@ The following symbols are used in this list:
 
 ### Input Methods & Keybinds
 
-- [The Sisterhood of Amecs](https://github.com/Siphalor/amecs) [`🏰`](https://modrinth.com/mod/amecs) `🔝 26.2` - Various key binding related features such as key modifiers, multiple shortcuts per binding, priority key bindings or key binding descriptions `Apache-2.0`
+- [The Sisterhood of Amecs](https://github.com/Siphalor/amecs) [`🏰`](https://modrinth.com/mod/amecs) `🔝 26.2 / 26.2-rc-2` - Various key binding related features such as key modifiers, multiple shortcuts per binding, priority key bindings or key binding descriptions `Apache-2.0`
 
 ### Inventory & Transfer Systems
 
@@ -128,7 +128,7 @@ The following symbols are used in this list:
 
 ### Items & Equippables
 
-- [Shield Lib](https://github.com/StellarWind22/Shield-Lib) [`🏰`](https://modrinth.com/mod/shieldlib) `🔝 1.21.8` - Library mod for easily adding shields, and shield enchantments into the game. ([Wiki](https://fabricmc.net/wiki/tutorial:shield)) `LGPL-2.1`
+- [Shield Lib](https://github.com/StellarWind22/Shield-Lib) [`🏰`](https://modrinth.com/mod/shieldlib) `🔝 1.21.8 / 21w05b` - Library mod for easily adding shields, and shield enchantments into the game. ([Wiki](https://fabricmc.net/wiki/tutorial:shield)) `LGPL-2.1`
 
 ### Low-Level Manipulation (e.g. mixins or bytecode)
 
@@ -145,21 +145,21 @@ The following symbols are used in this list:
 
 ### Recipes & Crafting
 
-- [Nbt Crafting](https://github.com/Siphalor/nbt-crafting) [`🏰`](https://modrinth.com/mod/nbt-crafting) `🔝 1.19.2` - JSON-driven nbt data in recipes and remainders as well as brewing recipes and a lot more. ([Wiki](https://mcwiki.siphalor.de/nbt-crafting/v2)) `Apache-2.0`
+- [Nbt Crafting](https://github.com/Siphalor/nbt-crafting) [`🏰`](https://modrinth.com/mod/nbt-crafting) `🔝 1.19.2 / 21w15a` - JSON-driven nbt data in recipes and remainders as well as brewing recipes and a lot more. ([Wiki](https://mcwiki.siphalor.de/nbt-crafting/v2)) `Apache-2.0`
 - [Push To Craft](https://github.com/Siphalor/push-to-craft) [`🏰`](https://modrinth.com/mod/push-to-craft) `🔝 1.19.2` - Allows to provide alternatives for recipe ingredients in a general fashion. `MIT`
 - [Smart Recipes](https://github.com/Kir-Antipov/smart-recipes) [`🏰`](https://modrinth.com/mod/smart-recipes) `🔝 1.20.4` - Extends the recipe format with conditions. ([Wiki](https://github.com/Kir-Antipov/smart-recipes#readme)) `MIT`
 
 ### Server-Side Only
 
-- [Polymer](https://github.com/Patbox/polymer) [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.3` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
+- [Polymer](https://github.com/Patbox/polymer) [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.3 / 26.3-rc-1` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
 
 ### Visual, Models, Rendering & Animation
 
 - [GeckoLib](https://github.com/bernie-g/geckolib) [`🏰`](https://modrinth.com/mod/geckolib) `🔝 26.3` - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started)) `LGPL-3.0-only`
 - [LibZoomer](https://github.com/EnnuiL/LibZoomer/issues) - A library for Minecraft 1.17+ that allows other mods to zoom easily while being able to customize it for their own needs. `MIT`
 - [JsonEM](https://github.com/FoundationGames/JsonEM) [`🏰`](https://modrinth.com/mod/jsonem) `🔝 26.1.1` - Library for modders, resource pack makers, and modpack makers to create and edit entity models with JSON. ([Wiki](https://github.com/FoundationGames/JsonEM/blob/1.18/README.md)) `MIT`
-- [JSON Model Extensions](https://github.com/vram-guild/json-model-extensions) [`🏰`](https://modrinth.com/mod/imx) `🔝 1.20.1` - Adds support for [FREX Rendering API](https://github.com/vram-guild/frex) features to Minecraft JSON model loading. ([Wiki](https://github.com/vram-guild/json-model-extensions/wiki)) `LGPL-3`
-- [FREX](https://github.com/vram-guild/frex) [`🏰`](https://modrinth.com/mod/imx) `🔝 1.20.1` - A rendering API for Minecraft mods to create content that wouldn't normally be possible. ([Wiki](https://github.com/vram-guild/frex/wiki)) `LGPL-3.0-only`
+- [JSON Model Extensions](https://github.com/vram-guild/json-model-extensions) [`🏰`](https://modrinth.com/mod/imx) `🔝 1.20.1 / 23w13a_or_b` - Adds support for [FREX Rendering API](https://github.com/vram-guild/frex) features to Minecraft JSON model loading. ([Wiki](https://github.com/vram-guild/json-model-extensions/wiki)) `LGPL-3`
+- [FREX](https://github.com/vram-guild/frex) [`🏰`](https://modrinth.com/mod/imx) `🔝 1.20.1 / 23w13a_or_b` - A rendering API for Minecraft mods to create content that wouldn't normally be possible. ([Wiki](https://github.com/vram-guild/frex/wiki)) `LGPL-3.0-only`
 - [UltralightFabric](https://github.com/isXander/UltralightFabric) [`🏰`](https://modrinth.com/mod/ultralightfabric) `🔝 1.18.1` - A HTML renderer for Fabric. ([Wiki](https://github.com/isXander/UltralightFabric/wiki)) `LGPL-3.0-only`
 - [Renderer](https://github.com/0x3C50/Renderer) [`🏰`](https://modrinth.com/mod/renderer) `🔝 1.20.4` - An easy-to-use rendering library for modern FabricMC. ([Wiki](https://github.com/0x3C50/Renderer/blob/master/README.md)) `BSD-3-Clause`
 

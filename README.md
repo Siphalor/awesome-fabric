@@ -128,7 +128,7 @@ The following symbols are used in this list:
 
 ### Items & Equippables
 
-- [Shield Lib](https://github.com/StellarWind22/Shield-Lib) [`🏰`](https://modrinth.com/mod/shieldlib) `🔝 1.21.8 / 21w05b` - Library mod for easily adding shields, and shield enchantments into the game. ([Wiki](https://fabricmc.net/wiki/tutorial:shield)) `LGPL-2.1`
+- [Shield Lib](https://github.com/StellarWind22/Shield-Lib) [`🏰`](https://modrinth.com/mod/shieldlib) `🔝 26.1.2` - Library mod for easily adding shields, and shield enchantments into the game. ([Wiki](https://fabricmc.net/wiki/tutorial:shield)) `LGPL-2.1`
 
 ### Low-Level Manipulation (e.g. mixins or bytecode)
 

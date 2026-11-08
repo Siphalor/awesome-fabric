@@ -182,6 +182,7 @@ The following symbols are used in this list:
 ### IDE Plugins
 
 - [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
+- [Minecraft Sound Browser](https://github.com/DverkaSK/minecraft-sound-browser) - Plugin for IntelliJ IDEA that lets you search and preview every vanilla sound and play `SoundEvents` references right from your code. `MIT`
 
 ### Mappings
 

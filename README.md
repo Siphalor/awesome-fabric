@@ -119,7 +119,7 @@ The following symbols are used in this list:
 
 ### Input Methods & Keybinds
 
-- [The Sisterhood of Amecs](https://github.com/Siphalor/amecs) [`🏰`](https://modrinth.com/mod/amecs) `🔝 26.2 / 26.2-rc-2` - Various key binding related features such as key modifiers, multiple shortcuts per binding, priority key bindings or key binding descriptions `Apache-2.0`
+- [The Sisterhood of Amecs](https://github.com/Siphalor/amecs) [`🏰`](https://modrinth.com/mod/amecs) `🔝 26.3 / 26.4-snapshot-8` - Various key binding related features such as key modifiers, multiple shortcuts per binding, priority key bindings or key binding descriptions `Apache-2.0`
 
 ### Inventory & Transfer Systems
 

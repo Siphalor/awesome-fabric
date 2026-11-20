@@ -169,6 +169,7 @@ The following symbols are used in this list:
 
 ### Inspection
 
+- [jdx](https://github.com/MohammadMD1383/jdx) - CLI and MCP server that answers IDE questions (members, method body, usages, call hierarchy, API diff) on JVM jars, including Loom remapped Minecraft jars. ([Wiki](https://mohammadmd1383.github.io/jdx/)) `Apache-2.0`
 - [mod_jar_inspector](https://github.com/comp500/mod_jar_inspector) - Allows you to inspect mods in a directory like listing all jar-in-jars or all mixins. `GPL-3.0-only`
 
 ### Generators
